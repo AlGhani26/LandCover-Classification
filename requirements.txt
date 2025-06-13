@@ -6,6 +6,3 @@ protobuf
 rasterio
 Shapely
 streamlit
-tensorflow==2.15.0
-tensorflow_gpu
-tensorflow_intel
