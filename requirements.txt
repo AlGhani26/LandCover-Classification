@@ -6,3 +6,4 @@ protobuf
 rasterio
 Shapely
 streamlit
+tensorflow
